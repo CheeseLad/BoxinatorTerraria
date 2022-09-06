@@ -1,0 +1,9 @@
+author = W1K (1.4 Port: Cheese)
+version = 1.3
+displayName = Boxinator
+homepage = https://steamcommunity.com/sharedfiles/filedetails/?id=2827599618
+hideCode = false
+hideResources = false
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = true
