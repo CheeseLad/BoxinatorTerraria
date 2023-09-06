@@ -11,7 +11,7 @@ namespace Boxinator.Items
 	{
 		public override void SetStaticDefaults()
 		{
-			Tooltip.SetDefault("Creates a basic and suitable house.");
+			// Tooltip.SetDefault("Creates a basic and suitable house.");
 			CreativeItemSacrificesCatalog.Instance.SacrificeCountNeededByItemId[Type] = 1;
 		}
 		
